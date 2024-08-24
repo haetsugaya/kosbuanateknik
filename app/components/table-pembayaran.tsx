@@ -91,9 +91,8 @@ export function TablePembayaran({ data }: TablePembayaranProps) {
 
   return (
     <>
-      <Table className="table-primary whitespace-nowrap overflow-scroll">
-          
-        <div className="max-h-[600px]">
+      <Table className="table-primary whitespace-nowrap ">
+        <div className="">
           {renderTableHeader}
           <TableBody>
             {renderTableData }

@@ -168,7 +168,7 @@ export function HeaderMobile() {
             className="overflow-hidden rounded-full"
           >
             <img
-              src="/placeholder-user.jpg"
+              src="https://github.com/shadcn.png"
               width={36}
               height={36}
               alt="Avatar"
