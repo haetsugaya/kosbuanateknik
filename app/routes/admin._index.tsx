@@ -8,7 +8,7 @@ export const meta: MetaFunction = () => {
   ];
 };
 
-export default function Index() {
+export default function Admin() {
   return (
     <main className="bg-[hsl(var(--background))]">
       <div className="flex w-full min-h-screen justify-center items-center">
